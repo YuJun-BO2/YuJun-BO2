@@ -2,9 +2,8 @@
 - 👀 I’m passionate about building Minecraft servers, exploring IoT and microcomputers, and learning information security.
 - 🌱 I’m currently learning essential calculus, fundamental physics, linear algebra, and the C programming language.
 
- **BO2** — my personal brand  
-🔖 A digital space where I explore, build, and share ideas at [bo2.tw](https://bo2.tw)
-
+ **BO2** — A community under construction
+🔖 Originally started as a private gaming group at [bo2.tw](https://bo2.tw)
 
 - 📫 Reach me at [yujun@bo2.tw](mailto:yujun@bo2.tw)
 
