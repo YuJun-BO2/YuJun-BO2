@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning essential calculus, fundamental physics, linear algebra, and the C programming language.
 
  **BO2** — a community under construction  
-🔖 Originally started as a private gaming group at [bo2.tw](https://bo2.tw)
+🔖 Originally started as a private gaming group at [bo2.tw](https://bo2.tw) (Not open yet.)
 
 
 - 📫 Reach me at [yujun@bo2.tw](mailto:yujun@bo2.tw)
